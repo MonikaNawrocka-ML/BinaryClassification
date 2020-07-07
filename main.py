@@ -1,3 +1,3 @@
-print("Hello world test zmainy innego programisty")
+print("Hello world test zmainy innego  ok")
 
 print(2+2)
